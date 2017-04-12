@@ -3,7 +3,7 @@ import { Component } from "@angular/core";
 @Component({
   selector: "my-app",
   template: `
-    <ActionBar title="My App"></ActionBar>
+    <ActionBar title="Tutorial App"></ActionBar>
     <Image src="~/images/apple.jpg"></Image>
   `,
   styles: [`
